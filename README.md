@@ -24,7 +24,7 @@ https://disk.yandex.ru/d/0MJ982AN8yYioQ
 
 ## Additional table
 
-A separate folder, **"Greek vases in different museums"**, contains tables with links and— for some museums—metadata for Ancient Greek vases from various collections.
+A separate folder, **"Greek vases in different museums"**, contains tables with links and, for some museums, metadata for Ancient Greek vases from various collections.
 
 The selection criteria were:
 - The decoration is sufficiently well preserved.
@@ -32,4 +32,4 @@ The selection criteria were:
 
 Vases depicting only animals or ornaments, as well as items whose decoration or shape is too heavily damaged, were excluded.
 
-**Licensing notice:** not all museums represented in the `Greek vases in different museums` folder allow unrestricted reuse of their data and images—please review and comply with each museum’s licensing terms before using the materials.
+**Licensing notice:** not all museums represented in the `Greek vases in different museums` folder allow unrestricted reuse of their data and images - please review and comply with each museum’s licensing terms before using the materials.
