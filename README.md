@@ -20,6 +20,8 @@ To use the dataset correctly, please **replace the image paths** with the corres
 You can download the image archive here:  
 https://disk.yandex.ru/d/0MJ982AN8yYioQ
 
+*Image filenames: images are named using the vase’s museum number plus a sequential suffix (_01, _02, …) for each museum number (e.g., 1888,0601.716_01.jpg); if a filename collision occurs, a short unique hash is appended to prevent overwriting*
+
 ## Additional tables (other museums)
 
 A separate folder, **"Greek vases in different museums"**, contains tables with links and— for some museums—metadata for Ancient Greek vases from various collections.
