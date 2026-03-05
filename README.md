@@ -22,7 +22,7 @@ https://disk.yandex.ru/d/0MJ982AN8yYioQ
 
 *Image filenames: images are named using the vase’s museum number plus a sequential suffix (_01, _02, …) for each museum number (e.g., 1888,0601.716_01.jpg); if a filename collision occurs, a short unique hash is appended to prevent overwriting*
 
-## Additional tables (other museums)
+## Additional table
 
 A separate folder, **"Greek vases in different museums"**, contains tables with links and— for some museums—metadata for Ancient Greek vases from various collections.
 
@@ -31,3 +31,5 @@ The selection criteria were:
 - The scene includes people.
 
 Vases depicting only animals or ornaments, as well as items whose decoration or shape is too heavily damaged, were excluded.
+
+**Licensing notice:** not all museums represented in the `Greek vases in different museums` folder allow unrestricted reuse of their data and images—please review and comply with each museum’s licensing terms before using the materials.
