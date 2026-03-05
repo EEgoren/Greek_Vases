@@ -1,6 +1,6 @@
 # Greek Vases
 
-This repository provides the `greek_vases` file containing metadata and photographs of approximately 100 Ancient Greek vases from the British Museum. The images were annotated in **Label Studio** using bounding boxes bbox.
+This repository provides the `greek_vases` file containing metadata and photographs of approximately 100 Ancient Greek vases from the British Museum. The images were annotated in **Label Studio** using bounding boxes.
 
 ## What is annotated
 
